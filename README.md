@@ -1,2 +1,2 @@
-# Future-Minds-Academy
-Future Minds Academy
+# Academy
+Academy
